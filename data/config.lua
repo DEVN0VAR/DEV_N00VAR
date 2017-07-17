@@ -1,77 +1,152 @@
+
 do local _ = {
-  about_text = "🔺Welcome to TeleBoss v3 For more information Subscribe to the channel @llDEV1lln\n https://github.com/moody2020/TeleBoss\n\n🔺Dev @TH3BOSS\n\n🔺 Dev Bot @ll60Kllbot\n\n🔺Dev channel @llDEV1ll",
+
+  about_text = ":green_heart: مرحبا بك في سورس نوفار  قناة السورس @DEV_NOVARn\n رابط السورس\n\n:star:DEV @N0VAR \n\n:star2: DEV @TAHAJ20\n\n:bulb:DEV @Profilei_ibot",
+
   enabled_plugins = {
-    "badword",
-    "admin",
-    "ingroup",
-    "stats",
-    "anti_spam",
-    "owners",
-    "arabic_lock",
-    "set",
-    "get",
-    "invite",
-    "all",
-    "leave_ban",
-    "setwelcome",
-    "msg_checks",
-    "hello",
-    "isup",
-    "onservice",
-    "supergroup",
-    "banhammer",
-    "broadcast",
-    "badword",
-    "robot",
-    "addsudo",
-    "insta",
+
+    "kool",
+
+    "new.my",
+
+    "lockbot",
+
     "info",
-    "textphoto",
-    "lock_bot",
-    "lock_fwd",
-    "me",
-    "plugins",
-    "image",
-    "sticker",
-    "map",
-    "voice",
-    "getlink",
-    "getfile",
-    "TeleBoss",
-    "VIRSON",
-    "TeleBoss1",
-    "TeleBoss2",
-    "TeleBoss3",
-    "TeleBoss4",
-    "TeleBoss5",
-    "TeleBoss6",
-    "dev",
-    "newgroup",
-    "replay",
+
+    "tagall",
+
+    "loke.fod",
+
+    "super",
+
+    "ned.bot",
+
+    "miosc",
+
+    "my",
+
+    "gaepfail",
+
+    "sker",
+
+    "invente",
+
+    "delacaunt",
+
+    "shaer",
+
+    "id",
+
+    "photstekr",
+
+    "danall",
+
+    "admin",
+
+    "untitled",
+
+    "locktag",
+
+    "photosayt",
+
+    "luke.med",
+
+    "infobot",
+
+    "my.name",
+
+    "auot.grob",
+
+    "lockonlain",
+
+    "mymsg",
+
+    "del",
+
+    "aytphoto",
+
+    "idd",
+
+    "dinfo",
+
+    "mme",
+
+    "taha",
+
+    "untitled",
+
+    "banworld",
+
+    "banhammerr",
+
+    "wawlcome",
+
+    "runee",
+
+    "linkdaerct",
+
+    "daevtato",
+
+    "bayii",
+
+    "what.my",
+
+    "shap",
+
+    "ran12",
+
+    "run22",
+
+    "sakrf22",
+
     "help",
-    "stats",
-    "lock_media",
-    "decoration",
-    "nedme",
-    "writer",
-    "@TH3BOSS",
-    "kickall",
-    "run",
-    "delete",
-    "Serverinfo",
-    "leave_bot",
-    "kickme",
-    "utorun",
+
+    "getfaiil",
+
+    "onle",
+
+    "addsudo",
+
+    "myphoto",
+
+    "addraeply",
+
+    "locksexe",
+
+    "gaepfail",
+
+    "lockuasr",
+
+    "robot",
+
+    "runnnn",
+
+    "runee",
+
+    "spam"
+
   },
+
   help_text = "",
+
   help_text_realm = "",
+
   help_text_super = "",
+
   moderation = {
+
     data = "data/moderation.json"
+
   },
+
   sudo_users = {
-    226861861
+
+    321050917
+    373906612
   }
+
 }
+
 return _
+
 end
